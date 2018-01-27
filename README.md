@@ -1,6 +1,8 @@
 linux-insides
 ===============
 
+> 本开源书 forked from [Linux Inside](https://github.com/0xAX/linux-insides)，作者为 [0xAX](https://github.com/0xAX)，欢迎大家 star 原作者的 [repo](https://github.com/0xAX/linux-insides)，以便获得最新更新，谢谢！
+ 
 A book-in-progress about the linux kernel and its insides.
 
 **The goal is simple** - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter.
